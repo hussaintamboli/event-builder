@@ -1,0 +1,26 @@
+{
+  "name": "event-builder",
+  "version": "1.0.0",
+  "description": "ES6 client JS that helps you log events to your server very easily.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hussaintamboli/event-builder.git"
+  },
+  "keywords": [
+    "event",
+    "tracking",
+    "logging",
+    "metrics",
+    "analytics"
+  ],
+  "author": "Hussain Tamboli <hussaintamboli18@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hussaintamboli/event-builder/issues"
+  },
+  "homepage": "https://github.com/hussaintamboli/event-builder#readme"
+}
