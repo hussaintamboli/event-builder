@@ -5,11 +5,7 @@ I should be able to track user events from my Web apps easily.
 
 ### Install ###
 
-    npm install git+ssh://git@github.com:hussaintamboli/event-builder.git
-
-### Upgrade to latest version ###
-
-    npm install -f git+ssh://git@github.com:hussaintamboli/event-builder.git
+    npm install event-builder
 
 ### Import ###
 
