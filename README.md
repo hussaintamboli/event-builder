@@ -1,4 +1,4 @@
-[![Node version](https://img.shields.io/node/v/[event-builder].svg?style=flat)](http://nodejs.org/download/)
+[![Node version](https://img.shields.io/node/v/event-builder.svg?style=flat)](http://nodejs.org/download/)
 
 ES6 client JS that helps you log events to your server very easily.
 
